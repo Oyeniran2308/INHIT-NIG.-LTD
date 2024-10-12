@@ -30,6 +30,8 @@ The following are the insight gotten from the analysis;
   - Revenue Generated across region: North East generated the highest revenue of **12,489,746,040** across all region while North Central generated the lowest revenue of **4,318,864,800**.
   - Unit Sold according to day category: There are four day category (Local holiday,Observance,Public holidays,Season, Workday) the major sales was carried out on Workdays with a total sales value of **491,391**.
   - Unit sold by each State: sales were carried out in twenty-two state accross the region with Ekiti state having the highest unit sold across the region and Osun having the lowest.
-  -    
-
+  -  Unit sold per sales category: sales categories under medium has the highest unit sold while the high has the lowest.
+  -  Unit sold according base on line of business: Part line of business has the highest sales with a sum of 493,826 unit sold and 62% of the unit sold across the region; while the printer sales has the lovest with a sum of 12,795 and 2% unit sold across the region.
+  -  Unit sold per month: June has the highest unit sold across the four line of business, while January has the lowest, also more unit were sold from the second quarter of the year and it flows till the last quarter of the year. 
+## Recommendation and Conclusion
 
