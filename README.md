@@ -34,4 +34,7 @@ The following are the insight gotten from the analysis;
   -  Unit sold according base on line of business: Part line of business has the highest sales with a sum of 493,826 unit sold and 62% of the unit sold across the region; while the printer sales has the lovest with a sum of 12,795 and 2% unit sold across the region.
   -  Unit sold per month: June has the highest unit sold across the four line of business, while January has the lowest, also more unit were sold from the second quarter of the year and it flows till the last quarter of the year. 
 ## Recommendation and Conclusion
+Below are some critical recommendation for the mangement overseeing Inhit Nig. Ltd;
 
+  - It was observe that North East generated the highest revenue and North central generated the lowest but accross all region Ekiti state which happens to have the highest unit sold across the region even with seven outlet across the state. The management of the company should see to see to opening more outlet store in some strategic places across the southwest state, with this southwest has the possibility of generating high revenue across the region.
+  - Unit sold per month: the management should see to get large stock at the first quarter of the year with strong awarness as theirs always high demand starting from the second quarter of the year.
