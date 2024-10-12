@@ -16,5 +16,7 @@ The Dataset used is a secondary data given by my facilitator 👨 ***(Mr. David)
 ## Method and Steps
 The data in it raw form needs little cleaning and adjustment before analysis can be carried, and the following are the steps taken to achieve the insight carriedout for this project
   
-  - First, theirs is a condition to categories the unitsold into three categories *(Low, Medium, High)*. The Unit sold from 1-20 are categories Low, 21 -50 are categories Medium, while above 50 are categories High. This 
+  - First, theirs is a condition to categories the unitsold into three categories *(Low, Medium, High)*. The Unit sold from 1-20 are categories Low, 21 -50 are categories Medium, while above 50 are categories High. This was achieved using the *"IFs Function"* in excel, the function state **"=IFS(N2<=20,"LOW",N2<=50,"Medium",N2>50,"High")"** after which the flashfill was apply to autofill the cells.
+  - Secondly, the dataset was highlighted and a spell-check was conducted under Review on the menu bar, the wrong spellings was accepted while some unique spelling which applies to indigenous language (name of store) were not changed.
+  - Thirdly, Inorder to get the unit  
 
