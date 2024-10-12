@@ -9,9 +9,9 @@ This Project contain sales analysis for Inhit nig Ltd, its shows the performance
 ### [Business Insight](business-insight)
 ### [Conclusion](conclusion)
 ## INTRODUCTION
-This project is set to analyse the sales performance for **Inhit. Nig Ltd** 🏢 across the state, region, and also to examine the organisation line of business performance with the highest unit sold and revenue generated.
+This project aims to analyze the sales performance of **Inhit. Nig Ltd** 🏢 across various states and regions. It also aims to evaluate the organization's business line performance, focusing on the highest units sold and revenue generated.
 ## Datasets
-The Dataset used is a secondary data given by my facilitator 👨 ***(Mr. David)*** to draw business insight for the company.
+The Dataset used is a secondary data given by my tutor 👨 ***(Mr. David)*** to draw business insight for the company.
 ## Tools Used
 **Excel** was used to carry out both cleaning and visualization of this project. The use of Pivot table are used to get the chart which interpret the data according to Pivot fields. 
 ## Method and Steps
@@ -50,4 +50,4 @@ On the other hand, **Printers Line of Business** trails behind with only 12,795 
 - **January has the lowest units sold:** January may suffer from post-holiday consumer spending fatigue, or it could coincide with economic slowdowns after the festive season. Encourage purchasing through special New Year sales, discounts, or bundles, especially for leftover inventory from the holiday season.
 
 ## Conclusion
-Inhit Nig. Ltd will be strong on it four line of business when they pay attention to somethings understanding their market, understanding the client and the peculiarity of each state and region; the line business should be introduce to the peculiarity of the customers environment.
+Inhit Nig. Ltd will be strong in its four lines of business when they pay attention to understanding their market, their clients, and the unique characteristics of each state and region. The business lines should be introduced with consideration to the unique characteristics of the customer's environment.
