@@ -36,5 +36,6 @@ The following are the insight gotten from the analysis;
 ## Recommendation and Conclusion
 Below are some critical recommendation for the mangement overseeing Inhit Nig. Ltd;
 
-  - It was observe that North East generated the highest revenue and North central generated the lowest but accross all region Ekiti state which happens to have the highest unit sold across the region even with seven outlet across the state. The management of the company should see to see to opening more outlet store in some strategic places across the southwest state, with this southwest has the possibility of generating high revenue across the region.
-  - Unit sold per month: the management should see to get large stock at the first quarter of the year with strong awarness as theirs always high demand starting from the second quarter of the year.
+  - It was observe that **North East** generated the highest revenue and **North central** generated the lowest but accross all region **Ekiti state** which happens to have the highest unit sold across the region even with seven outlet across the state. The management of the company should see to opening more outlet store in some strategic places across the southwest state, with this southwest has the possibility of generating high revenue across the region.
+  - Unit sold according to line of business: The **part business** is doing fine followed by the **service plan** the copier sales and printer sales are really suffering, the management should look into applying different approach and custermer target.
+  - Unit sold per month: the management should see to get large stock at the **first quarter** of the year with strong awarness as theirs always high demand starting from the **second quarter** of the year.
