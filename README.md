@@ -5,7 +5,8 @@ This Project contain sales analysis for Inhit nig Ltd, its shows the performance
    - Datasets
    - Tools Used
    - Method and steps
-   - Result/ Business Insight
+   - Result
+   - Business Insight
    - Recommendations and Conclusion
 ## INTRODUCTION
 This project is set to analyse the sales performance for **Inhit. Nig Ltd** 🏢 across the state, region, and also to examine the organisation line of business performance with the highest unit sold and revenue generated.
@@ -21,14 +22,14 @@ The data in it raw form needs little cleaning and adjustment before analysis can
   - Thirdly, the date column was divided into day, month and year column for me to carry out my analysis on the month with the highest unit sold; so to achieve this, three column was inserted after the date, and they where splited using the TEXT FUNCTION **"=TEXT(D2, "DD")"**, flashfill was thereafter applied to automatically fill the cell.This metthod was repeated for both month with the date format "MM" and year "YYYY"
   - Finally the data is ready to be exported into visualizing charts using the pivot table.
   -  Pivot Table: the dataset was highlighted and then a pivot chat was created under Insert on the menu bar. The necessary field were selected in the pivot field and then transformed into chat. Bar chat, 3D stacked column chart, table, pie chart, slicers ... where used for visualization.
-## Result/Business Insight
+## Result
 The following are the insight gotten from the analysis;
 
   - Total Sales Revenue: **73,031,990,280**
   - Sum of Unit Sold across all state: **786,678**
   - Total Sales: **307,98**
-  - Revenue Generated across region: North East generated the highest revenue of **12,489,746,040** across all region while North Central generated the lowest revenue of **4,318,864,800**.
-  - Unit Sold according to day category: There are four day category (Local holiday,Observance,Public holidays,Season, Workday) the major sales was carried out on Workdays with a total sales value of **491,391**.
+  - **Revenue Generated across region:** The data reveals significant regional differences in revenue generation. Notably, the North East emerged as the top-performing region, generating a remarkable ₦12,489,746,040, surpassing all other regions. In contrast, the North Central region recorded the lowest revenue at ₦4,318,864,800, which is approximately 65% less than the North East's revenue.
+  - **Unit Sold according to day category:** Analyzing the data across different day categories (Local Holiday, Observance, Public Holidays, Season, and Workday), it's evident that Workdays play a critical role in driving sales. A total sales value of ₦491,391 was generated on Workdays, significantly outperforming other day categories.
   - Unit sold by each State: sales were carried out in twenty-two state accross the region with Ekiti state having the highest unit sold across the region and Osun having the lowest.
   -  Unit sold per sales category: sales categories under medium has the highest unit sold while the high has the lowest.
   -  Unit sold according base on line of business: Part line of business has the highest sales with a sum of 493,826 unit sold and 62% of the unit sold across the region; while the printer sales has the lovest with a sum of 12,795 and 2% unit sold across the region.
@@ -36,6 +37,8 @@ The following are the insight gotten from the analysis;
 
 ![INHIT NIG  LTD](https://github.com/user-attachments/assets/e87968dd-9123-45b2-9c03-45559d586510)
 
+## Business Insights
+- considering North central having the lovwest revenue generated across all region,the data shows that sales occured in two state only (Federal Capital territory and Kogi) compared to other region, this has a strong negative influence on the outcome of the revenue generated  for that region, hence, management should see to establishing strong industrial presence, better infrastructure, and effective market strategies at this region.
 
 ## Recommendation and Conclusion
 Below are some critical recommendation for the mangement overseeing Inhit Nig. Ltd;
