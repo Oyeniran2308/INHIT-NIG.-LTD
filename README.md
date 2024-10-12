@@ -16,7 +16,9 @@ The Dataset used is a secondary data given by my facilitator 👨 ***(Mr. David)
 ## Method and Steps
 The data in it raw form needs little cleaning and adjustment before analysis can be carried, and the following are the steps taken to achieve the insight carriedout for this project
   
-  - First, theirs is a condition to categories the unitsold into three categories *(Low, Medium, High)*. The Unit sold from 1-20 are categories Low, 21 -50 are categories Medium, while above 50 are categories High. This was achieved using the *"IFs Function"* in excel, the function state **"=IFS(N2<=20,"LOW",N2<=50,"Medium",N2>50,"High")"** after which the flashfill was apply to autofill the cells.
+  - Firstly, theirs is a condition to categories the unitsold into three categories *(Low, Medium, High)*. The Unit sold from 1-20 are categories Low, 21 -50 are categories Medium, while above 50 are categories High. This was achieved using the *"IFs Function"* in excel, the function state **"=IFS(N2<=20,"LOW",N2<=50,"Medium",N2>50,"High")"** after which the flashfill was apply to autofill the cells.
   - Secondly, the dataset was highlighted and a spell-check was conducted under Review on the menu bar, the wrong spellings was accepted while some unique spelling which applies to indigenous language (name of store) were not changed.
-  - Thirdly, Inorder to get the unit  
+  - Thirdly, the date column was divided into day, month and year column for me to carry out my analysis on the month with the highest unit sold; so to achieve this, three column was inserted after the date, and they where splited using the TEXT FUNCTION **"=TEXT(D2, "DD")"**, flashfill was thereafter applied to automatically fill the cell.This metthod was repeated for both month with the date format "MM" and year "YYYY"
+  - Fourthly, Finally the data is ready to be exported into visualizing charts using the pivot table.
+  -  Pivot Table: the dataset was highlighted and then a pivot chat was created under Insert on the menu bar. The necessary field were selected in the pivot field and then transformed into chat. Bar chat, 3D stacked column chart, table, pie chart, slicers ... where used for visualization.
 
