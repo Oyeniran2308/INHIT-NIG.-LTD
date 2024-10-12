@@ -32,7 +32,10 @@ The following are the insight gotten from the analysis;
   - Unit sold by each State: sales were carried out in twenty-two state accross the region with Ekiti state having the highest unit sold across the region and Osun having the lowest.
   -  Unit sold per sales category: sales categories under medium has the highest unit sold while the high has the lowest.
   -  Unit sold according base on line of business: Part line of business has the highest sales with a sum of 493,826 unit sold and 62% of the unit sold across the region; while the printer sales has the lovest with a sum of 12,795 and 2% unit sold across the region.
-  -  Unit sold per month: June has the highest unit sold across the four line of business, while January has the lowest, also more unit were sold from the second quarter of the year and it flows till the last quarter of the year. 
+  -  Unit sold per month: June has the highest unit sold across the four line of business, while January has the lowest, also more unit were sold from the second quarter of the year and it flows till the last quarter of the year.
+
+
+
 ## Recommendation and Conclusion
 Below are some critical recommendation for the mangement overseeing Inhit Nig. Ltd;
 
