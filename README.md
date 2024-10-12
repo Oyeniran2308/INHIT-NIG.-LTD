@@ -34,6 +34,7 @@ The following are the insight gotten from the analysis;
   -  Unit sold according base on line of business: Part line of business has the highest sales with a sum of 493,826 unit sold and 62% of the unit sold across the region; while the printer sales has the lovest with a sum of 12,795 and 2% unit sold across the region.
   -  Unit sold per month: June has the highest unit sold across the four line of business, while January has the lowest, also more unit were sold from the second quarter of the year and it flows till the last quarter of the year.
 
+![INHIT NIG  LTD](https://github.com/user-attachments/assets/e87968dd-9123-45b2-9c03-45559d586510)
 
 
 ## Recommendation and Conclusion
