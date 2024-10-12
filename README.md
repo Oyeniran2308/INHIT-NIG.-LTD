@@ -1,13 +1,13 @@
 # INHIT-NIG.-LTD
 This Project contain sales analysis for Inhit nig Ltd, its shows the performance across state and insight for improvement.
 ## TABLE OF CONTENT
-   - Introduction
-   - Datasets
-   - Tools Used
-   - Method and steps
-   - Result
-   - Business Insight
-   - Recommendations and Conclusion
+### [Introduction](introduction)
+### [Datasets](datasets)
+### [Tools Used](tools-used)
+### [Method and steps](method-and-steps)
+### [Result](result)
+### [Business Insight](business-insight)
+### [Conclusion](conclusion)
 ## INTRODUCTION
 This project is set to analyse the sales performance for **Inhit. Nig Ltd** 🏢 across the state, region, and also to examine the organisation line of business performance with the highest unit sold and revenue generated.
 ## Datasets
