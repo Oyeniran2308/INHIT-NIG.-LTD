@@ -26,5 +26,7 @@ The following are the insight gotten from the analysis;
 
   - Total Sales Revenue: **73,031,990,280**
   - Sum of Unit Sold across all state: **786,678**
+  - Total Sales: **307,98**
+  - Revenue Generated across region: North East generated the highest revenue of 12,489,746,040 across all region while North Central generated the lowest revenue of 4,318,864,800 
 
 
