@@ -12,7 +12,7 @@ This project is set to analyse the sales performance for **Inhit. Nig Ltd** 🏢
 ## Dataset
 The Dataset used is a secondary data given by my facilitator 👨 ***(Mr. David)*** to draw business insight for the company.
 ## Tools Used
-Excel was used to carry out both cleaning and visualization of this project. The use of Pivot table are used to get the chart which interpret the data according to Pivot fields. 
+**Excel** was used to carry out both cleaning and visualization of this project. The use of Pivot table are used to get the chart which interpret the data according to Pivot fields. 
 ## Method and Steps
 The data in it raw form needs little cleaning and adjustment before analysis can be carried, and the following are the steps taken to achieve the insight carriedout for this project
   
