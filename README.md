@@ -49,9 +49,5 @@ On the other hand, **Printers Line of Business** trails behind with only 12,795 
 - **June has the highest units sold across all four lines of business:** If June consistently shows higher sales, it's an opportunity to plan targeted marketing campaigns or promotions leading up to this month to maximize profits. Ensure sufficient stock is available in June to meet increased demand, preventing stockouts and lost sales.
 - **January has the lowest units sold:** January may suffer from post-holiday consumer spending fatigue, or it could coincide with economic slowdowns after the festive season. Encourage purchasing through special New Year sales, discounts, or bundles, especially for leftover inventory from the holiday season.
 
-## Recommendation and Conclusion
-Below are some critical recommendation for the mangement overseeing Inhit Nig. Ltd;
-
-  - It was observe that **North East** generated the highest revenue and **North central** generated the lowest but accross all region **Ekiti state** which happens to have the highest unit sold across the region even with seven outlet across the state. The management of the company should see to opening more outlet store in some strategic places across the southwest state, with this southwest has the possibility of generating high revenue across the region.
-  - Unit sold according to line of business: The **part business** is doing fine followed by the **service plan** the copier sales and printer sales are really suffering, the management should look into applying different approach and custermer target.
-  - Unit sold per month: the management should see to get large stock at the **first quarter** of the year with strong awarness as theirs always high demand starting from the **second quarter** of the year.
+## Conclusion
+Inhit Nig. Ltd will be strong on it four line of business when they pay attention to somethings understanding their market, understanding the client and the peculiarity of each state and region; the line business should be introduce to the peculiarity of the customers environment.
