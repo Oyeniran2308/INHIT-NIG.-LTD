@@ -46,6 +46,8 @@ On the other hand, **Printers Line of Business** trails behind with only 12,795 
 - Parts are the backbone of the business, driving a significant portion of sales, suggesting that focusing on this line may continue to yield high returns. Exploring ways to optimize or expand this product offering could solidify its market position.
 - Printer sales, however, are significantly lagging, prompting a need to investigate the root causes. Whether it's market competitiveness, product positioning, or customer perception, this segment presents an opportunity for innovation, marketing strategy adjustments, or product diversification.
 - The disparity between the highest and lowest-selling lines emphasizes the importance of understanding customer behavior and adjusting strategies to optimize underperforming areas while continuing to support the strong performers.
+- **June has the highest units sold across all four lines of business:** If June consistently shows higher sales, it's an opportunity to plan targeted marketing campaigns or promotions leading up to this month to maximize profits. Ensure sufficient stock is available in June to meet increased demand, preventing stockouts and lost sales.
+- **January has the lowest units sold:** January may suffer from post-holiday consumer spending fatigue, or it could coincide with economic slowdowns after the festive season. Encourage purchasing through special New Year sales, discounts, or bundles, especially for leftover inventory from the holiday season.
 
 ## Recommendation and Conclusion
 Below are some critical recommendation for the mangement overseeing Inhit Nig. Ltd;
